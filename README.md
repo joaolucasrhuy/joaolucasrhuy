@@ -1,6 +1,5 @@
-### Hi there 👋
-
-<!--
+Olá! Sou João Lucas Barbosa Rhuy.
+Sou estudante de pensamento computacional.
 **joaolucasrhuy/joaolucasrhuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
